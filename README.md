@@ -604,11 +604,9 @@ You can extend this project with:
 - Kubernetes Official Documentation
 - Kubernetes Probes Documentation
 
-Official Kubernetes Task Guide:  
-:contentReference[oaicite:4]{index=4}
+Official Kubernetes Task Guide
 
-Kubernetes Concepts Guide:  
-:contentReference[oaicite:5]{index=5}
+Kubernetes Concepts Guide
 
 ---
 
