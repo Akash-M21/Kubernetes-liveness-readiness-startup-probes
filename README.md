@@ -556,19 +556,19 @@ Adjust:
 
 ## Use Readiness Probes
 
-Readiness probes are considered almost mandatory in production environments. :contentReference[oaicite:1]{index=1}
+Readiness probes are considered almost mandatory in production environments.
 
 ---
 
 ## Be Careful with Liveness Probes
 
-Poorly configured liveness probes can cause restart loops and cascading failures under load. :contentReference[oaicite:2]{index=2}
+Poorly configured liveness probes can cause restart loops and cascading failures under load.
 
 ---
 
 ## Use Startup Probes for Slow Apps
 
-Startup probes help prevent slow applications from being restarted before initialization completes. :contentReference[oaicite:3]{index=3}
+Startup probes help prevent slow applications from being restarted before initialization completes.
 
 ---
 
