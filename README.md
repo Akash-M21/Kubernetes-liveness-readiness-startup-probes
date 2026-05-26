@@ -603,10 +603,8 @@ You can extend this project with:
 
 - Kubernetes Official Documentation
 - Kubernetes Probes Documentation
-
-Official Kubernetes Task Guide
-
-Kubernetes Concepts Guide
+- Official Kubernetes Task Guide
+- Kubernetes Concepts Guide
 
 ---
 
